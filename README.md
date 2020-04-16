@@ -15,4 +15,7 @@ https://github.com/rkakshayka/Artificially-Control-Business-Process.git
    Now Retail Management Application will Open you can fill the Details..
    Good Luck!
 ```
+```
+   Note:- It will Store all the Data that youn enter in a generated file "store".
+```
 
