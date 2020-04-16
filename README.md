@@ -5,20 +5,14 @@ Also, this app is capable of adding, removing, and updating data information. Th
 uses CRUD operations.
 To run this first clone the code in your Local or VirtualMachine(Linux) as follows: 
 ```
-git clone https://github.com/rkakshayka/OS-Project.git
+https://github.com/rkakshayka/Artificially-Control-Business-Process.git
 ```
-
-2. Now Compile the code in command prompt by typing command
+ Compile the code in command prompt by typing command
 ```
-   filename.py
+   Ex:- filename.py
 ```
-3. Run the program using the command
 ```
-   ./a.out
-```
-Note:- if you want to run the '.o' files than use the command
-```
-Ex.- >>  gcc -c filename.c -lpthread
-     >>  objdump -D filename.o -lpthread
+   Now Retail Management Application will Open you can fill the Details..
+   Good Luck!
 ```
 
